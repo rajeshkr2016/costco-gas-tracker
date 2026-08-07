@@ -8,7 +8,7 @@ near a given ZIP code or latitude/longitude coordinates.
 Requires: curl_cffi (pip install curl_cffi)
 
 Usage:
-    python costco_gas_prices.py                          # Default: San Jose, CA
+    python costco_gas_prices.py                          # Default: Pleasanton, CA
     python costco_gas_prices.py --zip 90210              # By ZIP code
     python costco_gas_prices.py --lat 37.3 --lng -121.9  # By coordinates
     python costco_gas_prices.py --zip 90210 --radius 30  # Custom radius in miles
@@ -426,7 +426,7 @@ def main():
 
     # Determine coordinates
     origin_label = ""
-    zip_code = args.zip or "94550"
+    zip_code = args.zip or "94588"
     if args.lat is not None and args.lng is not None:
         lat, lng = args.lat, args.lng
         origin_label = f"({lat:.4f}, {lng:.4f})"

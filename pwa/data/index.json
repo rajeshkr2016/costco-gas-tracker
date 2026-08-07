@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-07T14:44Z",
+  "updated": "2026-08-07T14:54Z",
   "radius": 100.0,
   "zips": [
     {
-      "zip": "94550",
-      "lat": 37.683,
-      "lng": -121.763,
-      "label": "Livermore, CA"
+      "zip": "94588",
+      "lat": 37.6873,
+      "lng": -121.8957,
+      "label": "Pleasanton, CA"
     }
   ],
   "errors": {}

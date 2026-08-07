@@ -1,24 +1,13 @@
 {
-  "zip": "94550",
-  "label": "Livermore, CA",
+  "zip": "94588",
+  "label": "Pleasanton, CA",
   "origin": {
-    "lat": 37.683,
-    "lng": -121.763
+    "lat": 37.6873,
+    "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-08-07T14:44Z",
+  "updated": "2026-08-07T14:54Z",
   "warehouses": [
-    {
-      "id": 146,
-      "name": "Livermore",
-      "address": "2800 INDEPENDENCE DR, LIVERMORE, CA 94551-7628",
-      "phone": "(925) 443-6306",
-      "latitude": 37.703,
-      "longitude": -121.812,
-      "distance": 3.0123640224838435,
-      "regular": 5.299,
-      "premium": 5.799
-    },
     {
       "id": 1341,
       "name": "Pleasanton",
@@ -26,9 +15,20 @@
       "phone": "(925) 475-4000",
       "latitude": 37.695,
       "longitude": -121.917,
-      "distance": 8.455179506644422,
+      "distance": 1.2794782687216448,
       "regular": 5.259,
       "premium": 5.859
+    },
+    {
+      "id": 146,
+      "name": "Livermore",
+      "address": "2800 INDEPENDENCE DR, LIVERMORE, CA 94551-7628",
+      "phone": "(925) 443-6306",
+      "latitude": 37.703,
+      "longitude": -121.812,
+      "distance": 4.69967898617688,
+      "regular": 5.299,
+      "premium": 5.799
     },
     {
       "id": 21,
@@ -37,20 +37,31 @@
       "phone": "(925) 277-0407",
       "latitude": 37.782,
       "longitude": -121.973,
-      "distance": 13.350307044446241,
+      "distance": 7.7828052973914135,
       "regular": 5.199,
       "premium": 5.799
     },
     {
-      "id": 658,
-      "name": "Tracy",
-      "address": "3250 W GRANT LINE RD, TRACY, CA 95304-8427",
-      "phone": "(209) 830-5340",
-      "latitude": 37.751,
-      "longitude": -121.475,
-      "distance": 16.415991944649637,
-      "regular": 4.899,
-      "premium": 5.399
+      "id": 823,
+      "name": "Hayward Business Center",
+      "address": "22330 HATHAWAY AVE, HAYWARD, CA 94541-4861",
+      "phone": "(510) 259-6600",
+      "latitude": 37.668,
+      "longitude": -122.103,
+      "distance": 11.406611856123856,
+      "regular": 5.059,
+      "premium": 5.459
+    },
+    {
+      "id": 1061,
+      "name": "Hayward",
+      "address": "28505 HESPERIAN BLVD, HAYWARD, CA 94545-5008",
+      "phone": "(510) 921-3128",
+      "latitude": 37.615,
+      "longitude": -122.09,
+      "distance": 11.736480820029042,
+      "regular": 5.159,
+      "premium": 5.599
     },
     {
       "id": 1660,
@@ -59,7 +70,7 @@
       "phone": "(510) 493-2945",
       "latitude": 37.526,
       "longitude": -121.999,
-      "distance": 16.857356019794384,
+      "distance": 12.488653680915261,
       "regular": 4.799,
       "premium": 5.599
     },
@@ -70,64 +81,9 @@
       "phone": "(510) 897-1092",
       "latitude": 37.502,
       "longitude": -121.973,
-      "distance": 16.976105939473985,
+      "distance": 13.475166527767396,
       "regular": 4.599,
       "premium": 5.199
-    },
-    {
-      "id": 1061,
-      "name": "Hayward",
-      "address": "28505 HESPERIAN BLVD, HAYWARD, CA 94545-5008",
-      "phone": "(510) 921-3128",
-      "latitude": 37.615,
-      "longitude": -122.09,
-      "distance": 18.48303572350776,
-      "regular": 5.159,
-      "premium": 5.599
-    },
-    {
-      "id": 823,
-      "name": "Hayward Business Center",
-      "address": "22330 HATHAWAY AVE, HAYWARD, CA 94541-4861",
-      "phone": "(510) 259-6600",
-      "latitude": 37.668,
-      "longitude": -122.103,
-      "distance": 18.609648915153265,
-      "regular": 5.059,
-      "premium": 5.459
-    },
-    {
-      "id": 1662,
-      "name": "Brentwood CA",
-      "address": "5151 HEIDORN RANCH RD, BRENTWOOD, CA 94513-0000",
-      "phone": "(925) 666-0223",
-      "latitude": 37.957,
-      "longitude": -121.746,
-      "distance": 18.941516692098926,
-      "regular": 5.099,
-      "premium": 5.799
-    },
-    {
-      "id": 1004,
-      "name": "NE San Jose",
-      "address": "1709 AUTOMATION PKWY, SAN JOSE, CA 95131-1866",
-      "phone": "(408) 678-2150",
-      "latitude": 37.39,
-      "longitude": -121.884,
-      "distance": 21.287808957011332,
-      "regular": 4.959,
-      "premium": 5.459
-    },
-    {
-      "id": 1002,
-      "name": "Antioch",
-      "address": "2201 VERNE ROBERTS CIR, ANTIOCH, CA 94509-7911",
-      "phone": "(925) 757-7130",
-      "latitude": 38.009,
-      "longitude": -121.836,
-      "distance": 22.858432076014225,
-      "regular": 5.079,
-      "premium": 5.769
     },
     {
       "id": 118,
@@ -136,7 +92,7 @@
       "phone": "(510) 562-6708",
       "latitude": 37.72,
       "longitude": -122.182,
-      "distance": 23.032201074474518,
+      "distance": 15.802326283544032,
       "regular": 5.159,
       "premium": 5.699
     },
@@ -147,20 +103,31 @@
       "phone": "(925) 566-4003",
       "latitude": 37.958,
       "longitude": -122.033,
-      "distance": 24.029279667024248,
+      "distance": 20.135256936164645,
       "regular": 4.979,
       "premium": 5.299
     },
     {
-      "id": 129,
-      "name": "Santa Clara",
-      "address": "1601 COLEMAN AVE, SANTA CLARA, CA 95050-3122",
-      "phone": "(408) 567-9000",
-      "latitude": 37.357,
-      "longitude": -121.939,
-      "distance": 24.48600414001395,
-      "regular": 4.799,
-      "premium": 5.299
+      "id": 1662,
+      "name": "Brentwood CA",
+      "address": "5151 HEIDORN RANCH RD, BRENTWOOD, CA 94513-0000",
+      "phone": "(925) 666-0223",
+      "latitude": 37.957,
+      "longitude": -121.746,
+      "distance": 20.333211331734145,
+      "regular": 5.099,
+      "premium": 5.799
+    },
+    {
+      "id": 1004,
+      "name": "NE San Jose",
+      "address": "1709 AUTOMATION PKWY, SAN JOSE, CA 95131-1866",
+      "phone": "(408) 678-2150",
+      "latitude": 37.39,
+      "longitude": -121.884,
+      "distance": 20.53758973178552,
+      "regular": 4.959,
+      "premium": 5.459
     },
     {
       "id": 423,
@@ -169,9 +136,53 @@
       "phone": "(408) 730-1892",
       "latitude": 37.372,
       "longitude": -121.995,
-      "distance": 24.949975726475046,
+      "distance": 22.4391728051937,
       "regular": 4.899,
       "premium": 5.259
+    },
+    {
+      "id": 1002,
+      "name": "Antioch",
+      "address": "2201 VERNE ROBERTS CIR, ANTIOCH, CA 94509-7911",
+      "phone": "(925) 757-7130",
+      "latitude": 38.009,
+      "longitude": -121.836,
+      "distance": 22.449558746485337,
+      "regular": 5.079,
+      "premium": 5.769
+    },
+    {
+      "id": 1042,
+      "name": "Redwood City",
+      "address": "2300 MIDDLEFIELD RD, REDWOOD CITY, CA 94063-2854",
+      "phone": "(650) 568-4040",
+      "latitude": 37.479,
+      "longitude": -122.216,
+      "distance": 22.67186456745462,
+      "regular": 5.299,
+      "premium": 5.999
+    },
+    {
+      "id": 129,
+      "name": "Santa Clara",
+      "address": "1601 COLEMAN AVE, SANTA CLARA, CA 95050-3122",
+      "phone": "(408) 567-9000",
+      "latitude": 37.357,
+      "longitude": -121.939,
+      "distance": 22.929077346011805,
+      "regular": 4.799,
+      "premium": 5.299
+    },
+    {
+      "id": 658,
+      "name": "Tracy",
+      "address": "3250 W GRANT LINE RD, TRACY, CA 95304-8427",
+      "phone": "(209) 830-5340",
+      "latitude": 37.751,
+      "longitude": -121.475,
+      "distance": 23.394638633547547,
+      "regular": 4.899,
+      "premium": 5.399
     },
     {
       "id": 848,
@@ -180,7 +191,7 @@
       "phone": "(669) 236-4679",
       "latitude": 37.318,
       "longitude": -121.811,
-      "distance": 25.338850504011713,
+      "distance": 25.917610526983385,
       "regular": 4.959,
       "premium": 5.399
     },
@@ -191,42 +202,9 @@
       "phone": "(408) 275-0199",
       "latitude": 37.31,
       "longitude": -121.851,
-      "distance": 26.20172124130785,
+      "distance": 26.16616039775978,
       "regular": 4.999,
       "premium": 5.499
-    },
-    {
-      "id": 1031,
-      "name": "Manteca",
-      "address": "2440 DANIELS ST, MANTECA, CA 95337-6745",
-      "phone": "(209) 825-8200",
-      "latitude": 37.785,
-      "longitude": -121.26,
-      "distance": 28.35548992910505,
-      "regular": 4.959,
-      "premium": 5.459
-    },
-    {
-      "id": 1042,
-      "name": "Redwood City",
-      "address": "2300 MIDDLEFIELD RD, REDWOOD CITY, CA 94063-2854",
-      "phone": "(650) 568-4040",
-      "latitude": 37.479,
-      "longitude": -122.216,
-      "distance": 28.510164836033187,
-      "regular": 5.299,
-      "premium": 5.999
-    },
-    {
-      "id": 1267,
-      "name": "Great Oaks",
-      "address": "6898 RALEIGH ROAD, SAN JOSE, CA 95119-1730",
-      "phone": "(408) 908-7929",
-      "latitude": 37.244,
-      "longitude": -121.786,
-      "distance": 30.337719301320263,
-      "regular": 5.199,
-      "premium": 5.799
     },
     {
       "id": 482,
@@ -235,20 +213,9 @@
       "phone": "(510) 898-2003",
       "latitude": 37.898,
       "longitude": -122.321,
-      "distance": 33.8732048977727,
+      "distance": 27.388850251571846,
       "regular": 5.099,
       "premium": 5.799
-    },
-    {
-      "id": 38,
-      "name": "Stockton",
-      "address": "1616 E HAMMER LN, STOCKTON, CA 95210-4119",
-      "phone": "(209) 478-2040",
-      "latitude": 38.019,
-      "longitude": -121.292,
-      "distance": 34.606721646897405,
-      "regular": 4.999,
-      "premium": 5.499
     },
     {
       "id": 422,
@@ -257,7 +224,7 @@
       "phone": "(650) 872-2021",
       "latitude": 37.642,
       "longitude": -122.401,
-      "distance": 34.98711141231791,
+      "distance": 27.79492481360036,
       "regular": 5.199,
       "premium": 5.779
     },
@@ -268,30 +235,19 @@
       "phone": "(650) 757-3003",
       "latitude": 37.665,
       "longitude": -122.448,
-      "distance": 37.45617843473724,
+      "distance": 30.221837121988376,
       "regular": 5.359,
       "premium": 5.759
     },
     {
-      "id": 661,
-      "name": "Modesto",
-      "address": "3801 PELANDALE AVE, MODESTO, CA 95356-8300",
-      "phone": "(209) 342-4903",
-      "latitude": 37.702,
-      "longitude": -121.067,
-      "distance": 38.049842416187595,
-      "regular": 5.159,
-      "premium": 5.799
-    },
-    {
-      "id": 1091,
-      "name": "Lodi",
-      "address": "2680 REYNOLDS RANCH PKWY, LODI, CA 95240-6848",
-      "phone": "(209) 366-7300",
-      "latitude": 38.1,
-      "longitude": -121.264,
-      "distance": 39.60201981558836,
-      "regular": 5.259,
+      "id": 1267,
+      "name": "Great Oaks",
+      "address": "6898 RALEIGH ROAD, SAN JOSE, CA 95119-1730",
+      "phone": "(408) 908-7929",
+      "latitude": 37.244,
+      "longitude": -121.786,
+      "distance": 31.1932474841975,
+      "regular": 5.199,
       "premium": 5.799
     },
     {
@@ -301,9 +257,20 @@
       "phone": "(707) 553-6400",
       "latitude": 38.133,
       "longitude": -122.214,
-      "distance": 39.611340333851615,
+      "distance": 35.32294255459029,
       "regular": 5.099,
       "premium": 5.499
+    },
+    {
+      "id": 1031,
+      "name": "Manteca",
+      "address": "2440 DANIELS ST, MANTECA, CA 95337-6745",
+      "phone": "(209) 825-8200",
+      "latitude": 37.785,
+      "longitude": -121.26,
+      "distance": 35.361578350100956,
+      "regular": 4.959,
+      "premium": 5.459
     },
     {
       "id": 453,
@@ -312,8 +279,85 @@
       "phone": "(707) 864-3816",
       "latitude": 38.215,
       "longitude": -122.145,
-      "distance": 42.212423450354926,
+      "distance": 38.88201974338487,
       "regular": 5.299,
+      "premium": 5.899
+    },
+    {
+      "id": 38,
+      "name": "Stockton",
+      "address": "1616 E HAMMER LN, STOCKTON, CA 95210-4119",
+      "phone": "(209) 478-2040",
+      "latitude": 38.019,
+      "longitude": -121.292,
+      "distance": 40.097056421068274,
+      "regular": 4.999,
+      "premium": 5.499
+    },
+    {
+      "id": 1679,
+      "name": "Napa",
+      "address": "280 RIVERSOUND WAY, NAPA, CA 94558-6357",
+      "phone": "(707) 819-5900",
+      "latitude": 38.252,
+      "longitude": -122.279,
+      "distance": 44.221746301739806,
+      "regular": 5.299,
+      "premium": 5.859
+    },
+    {
+      "id": 1091,
+      "name": "Lodi",
+      "address": "2680 REYNOLDS RANCH PKWY, LODI, CA 95240-6848",
+      "phone": "(209) 366-7300",
+      "latitude": 38.1,
+      "longitude": -121.264,
+      "distance": 44.68487303698493,
+      "regular": 5.259,
+      "premium": 5.799
+    },
+    {
+      "id": 661,
+      "name": "Modesto",
+      "address": "3801 PELANDALE AVE, MODESTO, CA 95356-8300",
+      "phone": "(209) 342-4903",
+      "latitude": 37.702,
+      "longitude": -121.067,
+      "distance": 45.28754400398353,
+      "regular": 5.159,
+      "premium": 5.799
+    },
+    {
+      "id": 694,
+      "name": "Vacaville",
+      "address": "1051 HUME WAY, VACAVILLE, CA 95687-5558",
+      "phone": "(707) 453-7343",
+      "latitude": 38.351,
+      "longitude": -121.98,
+      "distance": 46.05516773736649,
+      "regular": 5.099,
+      "premium": 5.599
+    },
+    {
+      "id": 149,
+      "name": "Santa Cruz",
+      "address": "220 SYLVANIA AVE, SANTA CRUZ, CA 95060-2161",
+      "phone": "(831) 469-0961",
+      "latitude": 36.985,
+      "longitude": -122.033,
+      "distance": 49.07383432591178,
+      "regular": 5.279,
+      "premium": 5.759
+    },
+    {
+      "id": 760,
+      "name": "Gilroy",
+      "address": "7251 CAMINO ARROYO, GILROY, CA 95020-7340",
+      "phone": "(408) 848-0700",
+      "latitude": 37.008,
+      "longitude": -121.556,
+      "distance": 50.473767641690664,
+      "regular": 5.399,
       "premium": 5.899
     },
     {
@@ -323,63 +367,8 @@
       "phone": "(209) 458-5587",
       "latitude": 37.711,
       "longitude": -120.969,
-      "distance": 43.422024210376335,
+      "distance": 50.65374029760328,
       "regular": 5.159,
-      "premium": 5.759
-    },
-    {
-      "id": 694,
-      "name": "Vacaville",
-      "address": "1051 HUME WAY, VACAVILLE, CA 95687-5558",
-      "phone": "(707) 453-7343",
-      "latitude": 38.351,
-      "longitude": -121.98,
-      "distance": 47.609717333425834,
-      "regular": 5.099,
-      "premium": 5.599
-    },
-    {
-      "id": 760,
-      "name": "Gilroy",
-      "address": "7251 CAMINO ARROYO, GILROY, CA 95020-7340",
-      "phone": "(408) 848-0700",
-      "latitude": 37.008,
-      "longitude": -121.556,
-      "distance": 47.97160092582696,
-      "regular": 5.399,
-      "premium": 5.899
-    },
-    {
-      "id": 1679,
-      "name": "Napa",
-      "address": "280 RIVERSOUND WAY, NAPA, CA 94558-6357",
-      "phone": "(707) 819-5900",
-      "latitude": 38.252,
-      "longitude": -122.279,
-      "distance": 48.295117789962696,
-      "regular": 5.299,
-      "premium": 5.859
-    },
-    {
-      "id": 782,
-      "name": "Turlock",
-      "address": "2955 N TEGNER RD, TURLOCK, CA 95380-9401",
-      "phone": "(209) 656-5301",
-      "latitude": 37.519,
-      "longitude": -120.888,
-      "distance": 49.18721797504146,
-      "regular": 5.099,
-      "premium": 5.789
-    },
-    {
-      "id": 149,
-      "name": "Santa Cruz",
-      "address": "220 SYLVANIA AVE, SANTA CRUZ, CA 95060-2161",
-      "phone": "(831) 469-0961",
-      "latitude": 36.985,
-      "longitude": -122.033,
-      "distance": 50.422574820419854,
-      "regular": 5.279,
       "premium": 5.759
     },
     {
@@ -389,9 +378,20 @@
       "phone": "(916) 465-6050",
       "latitude": 38.406,
       "longitude": -121.414,
-      "distance": 53.406125603162,
+      "distance": 56.111910406701504,
       "regular": 5.099,
       "premium": 5.699
+    },
+    {
+      "id": 782,
+      "name": "Turlock",
+      "address": "2955 N TEGNER RD, TURLOCK, CA 95380-9401",
+      "phone": "(209) 656-5301",
+      "latitude": 37.519,
+      "longitude": -120.888,
+      "distance": 56.335144095837826,
+      "regular": 5.099,
+      "premium": 5.789
     },
     {
       "id": 464,
@@ -400,9 +400,20 @@
       "phone": "(916) 682-3569",
       "latitude": 38.468,
       "longitude": -121.414,
-      "distance": 57.42512171955736,
+      "distance": 59.9262597584583,
       "regular": 4.999,
       "premium": 5.399
+    },
+    {
+      "id": 659,
+      "name": "Rohnert Park",
+      "address": "5901 REDWOOD DR, ROHNERT PARK, CA 94928-2076",
+      "phone": "(707) 540-9113",
+      "latitude": 38.353,
+      "longitude": -122.717,
+      "distance": 64.09715071238064,
+      "regular": 5.399,
+      "premium": 5.879
     },
     {
       "id": 471,
@@ -411,8 +422,30 @@
       "phone": "(916) 830-1078",
       "latitude": 38.597,
       "longitude": -121.453,
-      "distance": 65.31540092715724,
+      "distance": 67.25495023028662,
       "regular": 5.199,
+      "premium": 5.699
+    },
+    {
+      "id": 41,
+      "name": "Santa Rosa",
+      "address": "1900 SANTA ROSA AVE, SANTA ROSA, CA 95407-7621",
+      "phone": "(707) 578-3775",
+      "latitude": 38.42,
+      "longitude": -122.712,
+      "distance": 67.29843407483122,
+      "regular": 5.259,
+      "premium": 5.699
+    },
+    {
+      "id": 1003,
+      "name": "Woodland",
+      "address": "2299 BRONZE STAR DR, WOODLAND, CA 95776-5409",
+      "phone": "(530) 406-2120",
+      "latitude": 38.672,
+      "longitude": -121.723,
+      "distance": 68.63337919875319,
+      "regular": 5.159,
       "premium": 5.699
     },
     {
@@ -422,42 +455,9 @@
       "phone": "(916) 724-2240",
       "latitude": 38.588,
       "longitude": -121.264,
-      "distance": 68.11046520888623,
+      "distance": 71.0244233080868,
       "regular": 5.199,
       "premium": 5.799
-    },
-    {
-      "id": 1003,
-      "name": "Woodland",
-      "address": "2299 BRONZE STAR DR, WOODLAND, CA 95776-5409",
-      "phone": "(530) 406-2120",
-      "latitude": 38.672,
-      "longitude": -121.723,
-      "distance": 68.32173390065627,
-      "regular": 5.159,
-      "premium": 5.699
-    },
-    {
-      "id": 659,
-      "name": "Rohnert Park",
-      "address": "5901 REDWOOD DR, ROHNERT PARK, CA 94928-2076",
-      "phone": "(707) 540-9113",
-      "latitude": 38.353,
-      "longitude": -122.717,
-      "distance": 69.5196790801029,
-      "regular": 5.399,
-      "premium": 5.879
-    },
-    {
-      "id": 41,
-      "name": "Santa Rosa",
-      "address": "1900 SANTA ROSA AVE, SANTA ROSA, CA 95407-7621",
-      "phone": "(707) 578-3775",
-      "latitude": 38.42,
-      "longitude": -122.712,
-      "distance": 72.46931150141518,
-      "regular": 5.259,
-      "premium": 5.699
     },
     {
       "id": 131,
@@ -466,7 +466,7 @@
       "phone": "(831) 899-1255",
       "latitude": 36.617,
       "longitude": -121.845,
-      "distance": 73.74203485857315,
+      "distance": 73.95338057009184,
       "regular": 5.349,
       "premium": 5.659
     },
@@ -477,20 +477,9 @@
       "phone": "(916) 560-4003",
       "latitude": 38.69,
       "longitude": -121.298,
-      "distance": 73.96781352256868,
+      "distance": 76.45453466078638,
       "regular": 5.099,
       "premium": 5.559
-    },
-    {
-      "id": 142,
-      "name": "Merced",
-      "address": "1445 R ST, MERCED, CA 95340-5850",
-      "phone": "(209) 725-5020",
-      "latitude": 37.303,
-      "longitude": -120.497,
-      "distance": 74.15226965957527,
-      "regular": 5.149,
-      "premium": 5.889
     },
     {
       "id": 765,
@@ -499,7 +488,7 @@
       "phone": "(916) 850-1000",
       "latitude": 38.645,
       "longitude": -121.11,
-      "distance": 75.29019579149923,
+      "distance": 78.6877817203805,
       "regular": 5.259,
       "premium": 5.849
     },
@@ -510,9 +499,20 @@
       "phone": "(916) 297-6420",
       "latitude": 38.754,
       "longitude": -121.366,
-      "distance": 77.02095720623167,
+      "distance": 79.058227790894,
       "regular": 5.159,
       "premium": 5.699
+    },
+    {
+      "id": 142,
+      "name": "Merced",
+      "address": "1445 R ST, MERCED, CA 95340-5850",
+      "phone": "(209) 725-5020",
+      "latitude": 37.303,
+      "longitude": -120.497,
+      "distance": 81.0869791071795,
+      "regular": 5.149,
+      "premium": 5.889
     },
     {
       "id": 29,
@@ -521,7 +521,7 @@
       "phone": "(916) 789-1485",
       "latitude": 38.78,
       "longitude": -121.267,
-      "distance": 80.37931637893304,
+      "distance": 82.79418682838931,
       "regular": 5.199,
       "premium": 5.759
     }
