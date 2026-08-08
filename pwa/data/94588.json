@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-08-08T02:51Z",
+  "updated": "2026-08-08T17:23Z",
   "warehouses": [
     {
       "id": 1341,
@@ -93,7 +93,7 @@
       "latitude": 37.72,
       "longitude": -122.182,
       "distance": 15.802326283544032,
-      "regular": null,
+      "regular": 5.099,
       "premium": 5.659
     },
     {
@@ -159,7 +159,7 @@
       "latitude": 37.479,
       "longitude": -122.216,
       "distance": 22.67186456745462,
-      "regular": null,
+      "regular": 5.299,
       "premium": 5.999
     },
     {
@@ -236,7 +236,7 @@
       "latitude": 37.665,
       "longitude": -122.448,
       "distance": 30.221837121988376,
-      "regular": null,
+      "regular": 5.299,
       "premium": 5.759
     },
     {
@@ -247,7 +247,7 @@
       "latitude": 37.244,
       "longitude": -121.786,
       "distance": 31.1932474841975,
-      "regular": null,
+      "regular": 5.099,
       "premium": 5.699
     },
     {
@@ -291,7 +291,7 @@
       "latitude": 38.019,
       "longitude": -121.292,
       "distance": 40.097056421068274,
-      "regular": null,
+      "regular": 4.999,
       "premium": 5.499
     },
     {
@@ -346,7 +346,7 @@
       "latitude": 36.985,
       "longitude": -122.033,
       "distance": 49.07383432591178,
-      "regular": null,
+      "regular": 5.279,
       "premium": 5.799
     },
     {
@@ -445,7 +445,7 @@
       "latitude": 38.672,
       "longitude": -121.723,
       "distance": 68.63337919875319,
-      "regular": null,
+      "regular": 5.159,
       "premium": 5.699
     },
     {
@@ -511,7 +511,7 @@
       "latitude": 37.303,
       "longitude": -120.497,
       "distance": 81.0869791071795,
-      "regular": null,
+      "regular": 5.099,
       "premium": 5.859
     },
     {
