@@ -17188,5 +17188,245 @@
         "distance": 82.79418682838931
       }
     }
+  },
+  {
+    "timestamp": "2026-08-12T17:54Z",
+    "prices": {
+      "Pleasanton": {
+        "regular": 5.099,
+        "premium": 5.759,
+        "distance": 1.2794782687216448
+      },
+      "Livermore": {
+        "regular": 4.999,
+        "premium": 5.699,
+        "distance": 4.69967898617688
+      },
+      "Danville": {
+        "regular": 5.149,
+        "premium": 5.799,
+        "distance": 7.7828052973914135
+      },
+      "Hayward Business Center": {
+        "regular": 5.059,
+        "premium": 5.459,
+        "distance": 11.406611856123856
+      },
+      "Hayward": {
+        "regular": 4.959,
+        "premium": 5.359,
+        "distance": 11.736480820029042
+      },
+      "Newark": {
+        "regular": 4.699,
+        "premium": 5.359,
+        "distance": 12.488653680915261
+      },
+      "Fremont": {
+        "regular": 4.649,
+        "premium": 5.149,
+        "distance": 13.475166527767396
+      },
+      "San Leandro": {
+        "regular": 5.059,
+        "premium": 5.359,
+        "distance": 15.802326283544032
+      },
+      "Concord": {
+        "regular": 4.879,
+        "premium": 5.299,
+        "distance": 20.135256936164645
+      },
+      "Brentwood CA": {
+        "regular": 5.079,
+        "premium": 5.599,
+        "distance": 20.333211331734145
+      },
+      "NE San Jose": {
+        "regular": 4.899,
+        "premium": 5.299,
+        "distance": 20.53758973178552
+      },
+      "Sunnyvale": {
+        "regular": 4.799,
+        "premium": 5.199,
+        "distance": 22.4391728051937
+      },
+      "Antioch": {
+        "regular": 5.079,
+        "premium": 5.799,
+        "distance": 22.449558746485337
+      },
+      "Redwood City": {
+        "regular": 5.299,
+        "premium": 5.599,
+        "distance": 22.67186456745462
+      },
+      "Santa Clara": {
+        "regular": 4.899,
+        "premium": 5.299,
+        "distance": 22.929077346011805
+      },
+      "Tracy": {
+        "regular": 4.839,
+        "premium": 5.399,
+        "distance": 23.394638633547547
+      },
+      "San Jose Business Center": {
+        "regular": 4.959,
+        "premium": 5.359,
+        "distance": 25.917610526983385
+      },
+      "San Jose": {
+        "regular": 4.959,
+        "premium": 5.459,
+        "distance": 26.16616039775978
+      },
+      "Richmond CA": {
+        "regular": 5.159,
+        "premium": 5.699,
+        "distance": 27.388850251571846
+      },
+      "S San Francisco": {
+        "regular": 5.199,
+        "premium": 5.699,
+        "distance": 27.79492481360036
+      },
+      "El Camino": {
+        "regular": 5.199,
+        "premium": 5.599,
+        "distance": 30.221837121988376
+      },
+      "Great Oaks": {
+        "regular": 4.959,
+        "premium": 5.799,
+        "distance": 31.1932474841975
+      },
+      "Vallejo": {
+        "regular": 5.099,
+        "premium": 5.499,
+        "distance": 35.32294255459029
+      },
+      "Manteca": {
+        "regular": 4.959,
+        "premium": 5.459,
+        "distance": 35.361578350100956
+      },
+      "Fairfield": {
+        "regular": 5.159,
+        "premium": 5.699,
+        "distance": 38.88201974338487
+      },
+      "Stockton": {
+        "regular": 4.959,
+        "premium": 5.399,
+        "distance": 40.097056421068274
+      },
+      "Napa": {
+        "regular": 5.159,
+        "premium": 5.699,
+        "distance": 44.221746301739806
+      },
+      "Lodi": {
+        "regular": 5.259,
+        "premium": 5.899,
+        "distance": 44.68487303698493
+      },
+      "Modesto": {
+        "regular": 5.199,
+        "premium": 5.589,
+        "distance": 45.28754400398353
+      },
+      "Vacaville": {
+        "regular": 4.999,
+        "premium": 5.599,
+        "distance": 46.05516773736649
+      },
+      "Santa Cruz": {
+        "regular": 5.199,
+        "premium": 5.599,
+        "distance": 49.07383432591178
+      },
+      "Gilroy": {
+        "regular": 5.349,
+        "premium": 5.799,
+        "distance": 50.473767641690664
+      },
+      "Riverbank": {
+        "regular": 4.979,
+        "premium": 5.499,
+        "distance": 50.65374029760328
+      },
+      "Elk Grove": {
+        "regular": 4.999,
+        "premium": 5.599,
+        "distance": 56.111910406701504
+      },
+      "Turlock": {
+        "regular": 5.099,
+        "premium": 5.789,
+        "distance": 56.335144095837826
+      },
+      "Sacramento": {
+        "regular": 4.899,
+        "premium": 5.399,
+        "distance": 59.9262597584583
+      },
+      "Rohnert Park": {
+        "regular": 5.299,
+        "premium": 5.759,
+        "distance": 64.09715071238064
+      },
+      "Cal Expo": {
+        "regular": 4.999,
+        "premium": 5.499,
+        "distance": 67.25495023028662
+      },
+      "Santa Rosa": {
+        "regular": 5.199,
+        "premium": 5.649,
+        "distance": 67.29843407483122
+      },
+      "Woodland": {
+        "regular": 5.139,
+        "premium": 5.599,
+        "distance": 68.63337919875319
+      },
+      "Rancho Cordova": {
+        "regular": 5.199,
+        "premium": 5.799,
+        "distance": 71.0244233080868
+      },
+      "Sand City": {
+        "regular": 5.299,
+        "premium": 5.599,
+        "distance": 73.95338057009184
+      },
+      "Citrus Heights": {
+        "regular": 4.999,
+        "premium": 5.399,
+        "distance": 76.45453466078638
+      },
+      "Folsom": {
+        "regular": 5.099,
+        "premium": 5.599,
+        "distance": 78.6877817203805
+      },
+      "W Roseville CA": {
+        "regular": 4.959,
+        "premium": 5.499,
+        "distance": 79.058227790894
+      },
+      "Merced": {
+        "regular": 5.049,
+        "premium": 5.759,
+        "distance": 81.0869791071795
+      },
+      "Roseville CA": {
+        "regular": 4.959,
+        "premium": 5.499,
+        "distance": 82.79418682838931
+      }
+    }
   }
 ]
