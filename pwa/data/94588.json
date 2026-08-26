@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-08-25T17:25Z",
+  "updated": "2026-08-26T02:22Z",
   "warehouses": [
     {
       "id": 1341,
@@ -71,8 +71,8 @@
       "latitude": 37.526,
       "longitude": -121.999,
       "distance": 12.488653680915261,
-      "regular": 4.899,
-      "premium": 5.259
+      "regular": 4.959,
+      "premium": 5.299
     },
     {
       "id": 778,
