@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-10-06T21:24Z",
+  "updated": "2026-10-07T06:46Z",
   "warehouses": [
     {
       "id": 1341,
@@ -49,7 +49,7 @@
       "latitude": 37.668,
       "longitude": -122.103,
       "distance": 11.406611856123856,
-      "regular": 6.059,
+      "regular": 5.999,
       "premium": 6.459
     },
     {
@@ -60,7 +60,7 @@
       "latitude": 37.615,
       "longitude": -122.09,
       "distance": 11.736480820029042,
-      "regular": 6.099,
+      "regular": 6.059,
       "premium": 6.599
     },
     {
@@ -126,7 +126,7 @@
       "latitude": 37.39,
       "longitude": -121.884,
       "distance": 20.53758973178552,
-      "regular": 5.959,
+      "regular": 5.899,
       "premium": 6.399
     },
     {
@@ -159,7 +159,7 @@
       "latitude": 37.479,
       "longitude": -122.216,
       "distance": 22.67186456745462,
-      "regular": 6.299,
+      "regular": 6.259,
       "premium": 6.859
     },
     {
@@ -181,8 +181,8 @@
       "latitude": 37.751,
       "longitude": -121.475,
       "distance": 23.394638633547547,
-      "regular": 6.059,
-      "premium": 6.459
+      "regular": 5.999,
+      "premium": 6.399
     },
     {
       "id": 848,
@@ -203,8 +203,8 @@
       "latitude": 37.31,
       "longitude": -121.851,
       "distance": 26.16616039775978,
-      "regular": 5.899,
-      "premium": 6.299
+      "regular": 5.859,
+      "premium": 6.259
     },
     {
       "id": 482,
@@ -214,7 +214,7 @@
       "latitude": 37.898,
       "longitude": -122.321,
       "distance": 27.388850251571846,
-      "regular": 6.159,
+      "regular": 6.099,
       "premium": 6.659
     },
     {
@@ -226,7 +226,7 @@
       "longitude": -122.401,
       "distance": 27.79492481360036,
       "regular": 6.199,
-      "premium": 6.599
+      "premium": 6.559
     },
     {
       "id": 475,
@@ -236,8 +236,8 @@
       "latitude": 37.665,
       "longitude": -122.448,
       "distance": 30.221837121988376,
-      "regular": 6.159,
-      "premium": 6.599
+      "regular": 6.099,
+      "premium": 6.559
     },
     {
       "id": 1267,
@@ -247,7 +247,7 @@
       "latitude": 37.244,
       "longitude": -121.786,
       "distance": 31.1932474841975,
-      "regular": 5.999,
+      "regular": 5.959,
       "premium": 6.399
     },
     {
@@ -262,6 +262,17 @@
       "premium": 6.499
     },
     {
+      "id": 1684,
+      "name": "Vallejo",
+      "address": "860 ADMIRAL CALLAGHAN LANE, VALLEJO, CA 94591-0000",
+      "phone": "",
+      "latitude": 38.128,
+      "longitude": -122.225,
+      "distance": 35.32340476247872,
+      "regular": null,
+      "premium": null
+    },
+    {
       "id": 1031,
       "name": "Manteca",
       "address": "2440 DANIELS ST, MANTECA, CA 95337-6745",
@@ -269,8 +280,8 @@
       "latitude": 37.785,
       "longitude": -121.26,
       "distance": 35.361578350100956,
-      "regular": 5.749,
-      "premium": 6.149
+      "regular": 5.699,
+      "premium": 6.099
     },
     {
       "id": 453,
@@ -347,7 +358,7 @@
       "longitude": -122.033,
       "distance": 49.07383432591178,
       "regular": 6.089,
-      "premium": 6.759
+      "premium": 6.699
     },
     {
       "id": 760,
@@ -369,7 +380,7 @@
       "longitude": -120.969,
       "distance": 50.65374029760328,
       "regular": 5.899,
-      "premium": 6.599
+      "premium": 6.559
     },
     {
       "id": 1274,
@@ -380,7 +391,7 @@
       "longitude": -121.414,
       "distance": 56.111910406701504,
       "regular": 5.999,
-      "premium": 6.699
+      "premium": 6.659
     },
     {
       "id": 782,
@@ -412,7 +423,7 @@
       "latitude": 38.353,
       "longitude": -122.717,
       "distance": 64.09715071238064,
-      "regular": 6.399,
+      "regular": 6.359,
       "premium": 6.799
     },
     {
@@ -423,7 +434,7 @@
       "latitude": 38.597,
       "longitude": -121.453,
       "distance": 67.25495023028662,
-      "regular": 6.099,
+      "regular": 6.059,
       "premium": 6.499
     },
     {
@@ -445,8 +456,8 @@
       "latitude": 38.672,
       "longitude": -121.723,
       "distance": 68.63337919875319,
-      "regular": 5.999,
-      "premium": 6.599
+      "regular": 5.939,
+      "premium": 6.559
     },
     {
       "id": 438,
@@ -479,7 +490,7 @@
       "longitude": -121.298,
       "distance": 76.45453466078638,
       "regular": 5.839,
-      "premium": 6.459
+      "premium": 6.439
     },
     {
       "id": 765,
@@ -489,7 +500,7 @@
       "latitude": 38.645,
       "longitude": -121.11,
       "distance": 78.6877817203805,
-      "regular": 6.199,
+      "regular": 6.159,
       "premium": 6.849
     },
     {
