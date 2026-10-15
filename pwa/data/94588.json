@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-10-14T20:23Z",
+  "updated": "2026-10-15T05:28Z",
   "warehouses": [
     {
       "id": 1341,
@@ -104,7 +104,7 @@
       "latitude": 37.958,
       "longitude": -122.033,
       "distance": 20.135256936164645,
-      "regular": 5.799,
+      "regular": 5.759,
       "premium": 6.159
     },
     {
@@ -127,7 +127,7 @@
       "longitude": -121.884,
       "distance": 20.53758973178552,
       "regular": 5.599,
-      "premium": 6.099
+      "premium": 5.999
     },
     {
       "id": 423,
@@ -137,8 +137,8 @@
       "latitude": 37.372,
       "longitude": -121.995,
       "distance": 22.4391728051937,
-      "regular": 5.699,
-      "premium": 6.099
+      "regular": 5.639,
+      "premium": 6.039
     },
     {
       "id": 1002,
@@ -159,7 +159,7 @@
       "latitude": 37.479,
       "longitude": -122.216,
       "distance": 22.67186456745462,
-      "regular": 5.999,
+      "regular": 5.959,
       "premium": 6.399
     },
     {
@@ -171,7 +171,7 @@
       "longitude": -121.939,
       "distance": 22.929077346011805,
       "regular": 5.599,
-      "premium": 6.039
+      "premium": 5.999
     },
     {
       "id": 658,
@@ -192,7 +192,7 @@
       "latitude": 37.318,
       "longitude": -121.811,
       "distance": 25.917610526983385,
-      "regular": 5.699,
+      "regular": 5.659,
       "premium": 6.099
     },
     {
@@ -214,7 +214,7 @@
       "latitude": 37.898,
       "longitude": -122.321,
       "distance": 27.388850251571846,
-      "regular": 5.899,
+      "regular": 5.859,
       "premium": 6.359
     },
     {
@@ -335,8 +335,8 @@
       "latitude": 37.702,
       "longitude": -121.067,
       "distance": 45.28754400398353,
-      "regular": 5.599,
-      "premium": 6.299
+      "regular": 5.499,
+      "premium": 6.229
     },
     {
       "id": 694,
@@ -379,8 +379,8 @@
       "latitude": 37.711,
       "longitude": -120.969,
       "distance": 50.65374029760328,
-      "regular": 5.599,
-      "premium": 6.299
+      "regular": 5.499,
+      "premium": 6.199
     },
     {
       "id": 1274,
@@ -390,8 +390,8 @@
       "latitude": 38.406,
       "longitude": -121.414,
       "distance": 56.111910406701504,
-      "regular": 5.799,
-      "premium": 6.499
+      "regular": 5.699,
+      "premium": 6.399
     },
     {
       "id": 782,
@@ -445,8 +445,8 @@
       "latitude": 38.42,
       "longitude": -122.712,
       "distance": 67.29843407483122,
-      "regular": 6.099,
-      "premium": 6.499
+      "regular": 5.999,
+      "premium": 6.399
     },
     {
       "id": 1003,
@@ -478,8 +478,8 @@
       "latitude": 36.617,
       "longitude": -121.845,
       "distance": 73.95338057009184,
-      "regular": 5.959,
-      "premium": 6.399
+      "regular": 5.949,
+      "premium": 6.359
     },
     {
       "id": 771,
@@ -489,8 +489,8 @@
       "latitude": 38.69,
       "longitude": -121.298,
       "distance": 76.45453466078638,
-      "regular": 5.699,
-      "premium": 6.259
+      "regular": 5.689,
+      "premium": 6.239
     },
     {
       "id": 765,
@@ -500,7 +500,7 @@
       "latitude": 38.645,
       "longitude": -121.11,
       "distance": 78.6877817203805,
-      "regular": 5.959,
+      "regular": 5.949,
       "premium": 6.399
     },
     {
@@ -511,8 +511,8 @@
       "latitude": 38.754,
       "longitude": -121.366,
       "distance": 79.058227790894,
-      "regular": 5.699,
-      "premium": 6.399
+      "regular": 5.689,
+      "premium": 6.359
     },
     {
       "id": 142,
@@ -534,7 +534,7 @@
       "longitude": -121.267,
       "distance": 82.79418682838931,
       "regular": 5.699,
-      "premium": 6.359
+      "premium": 6.299
     }
   ]
 }
