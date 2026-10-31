@@ -4,7 +4,7 @@
 # coexist (push-triggered deploy still happens on the GH side).
 set -u
 
-REPO="/Users/rradhakrishnan/projects/costco-gas-tracker"
+REPO="/Users/rradhakrishnan/projects/repos/costco-gas-tracker"
 VENV_PY="$REPO/.venv/bin/python"
 LOG="$HOME/Library/Logs/costco_gas.log"
 
