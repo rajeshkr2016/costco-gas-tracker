@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-11-06T21:54Z",
+  "updated": "2026-11-07T06:45Z",
   "warehouses": [
     {
       "id": 1341,
@@ -249,17 +249,6 @@
       "distance": 31.1932474841975,
       "regular": 5.259,
       "premium": 5.759
-    },
-    {
-      "id": 132,
-      "name": "Vallejo",
-      "address": "198 PLAZA DR, VALLEJO, CA 94591-3702",
-      "phone": "(707) 553-6400",
-      "latitude": 38.133,
-      "longitude": -122.214,
-      "distance": 35.32294255459029,
-      "regular": null,
-      "premium": null
     },
     {
       "id": 1684,
