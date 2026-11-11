@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-11-10T22:06Z",
+  "updated": "2026-11-11T07:26Z",
   "warehouses": [
     {
       "id": 1341,
@@ -170,7 +170,7 @@
       "latitude": 37.357,
       "longitude": -121.939,
       "distance": 22.929077346011805,
-      "regular": 4.959,
+      "regular": 4.899,
       "premium": 5.499
     },
     {
@@ -181,7 +181,7 @@
       "latitude": 37.751,
       "longitude": -121.475,
       "distance": 23.394638633547547,
-      "regular": 5.099,
+      "regular": 5.059,
       "premium": 5.599
     },
     {
@@ -192,7 +192,7 @@
       "latitude": 37.318,
       "longitude": -121.811,
       "distance": 25.917610526983385,
-      "regular": 5.059,
+      "regular": 4.999,
       "premium": 5.559
     },
     {
@@ -203,7 +203,7 @@
       "latitude": 37.31,
       "longitude": -121.851,
       "distance": 26.16616039775978,
-      "regular": 5.059,
+      "regular": 4.999,
       "premium": 5.559
     },
     {
@@ -214,7 +214,7 @@
       "latitude": 37.898,
       "longitude": -122.321,
       "distance": 27.388850251571846,
-      "regular": 5.399,
+      "regular": 5.359,
       "premium": 5.659
     },
     {
@@ -258,7 +258,7 @@
       "latitude": 38.128,
       "longitude": -122.225,
       "distance": 35.32340476247872,
-      "regular": 5.199,
+      "regular": 5.159,
       "premium": 5.659
     },
     {
@@ -280,7 +280,7 @@
       "latitude": 38.215,
       "longitude": -122.145,
       "distance": 38.88201974338487,
-      "regular": 5.299,
+      "regular": 5.259,
       "premium": 5.759
     },
     {
@@ -325,7 +325,7 @@
       "longitude": -121.067,
       "distance": 45.28754400398353,
       "regular": 5.099,
-      "premium": 5.459
+      "premium": 5.559
     },
     {
       "id": 694,
@@ -369,7 +369,7 @@
       "longitude": -120.969,
       "distance": 50.65374029760328,
       "regular": 5.099,
-      "premium": 5.459
+      "premium": 5.559
     },
     {
       "id": 1274,
@@ -391,7 +391,7 @@
       "longitude": -120.888,
       "distance": 56.335144095837826,
       "regular": 5.059,
-      "premium": 5.859
+      "premium": 5.799
     },
     {
       "id": 464,
@@ -423,7 +423,7 @@
       "latitude": 38.597,
       "longitude": -121.453,
       "distance": 67.25495023028662,
-      "regular": 5.199,
+      "regular": 5.159,
       "premium": 5.699
     },
     {
@@ -489,7 +489,7 @@
       "latitude": 38.645,
       "longitude": -121.11,
       "distance": 78.6877817203805,
-      "regular": 5.099,
+      "regular": 5.059,
       "premium": 5.699
     },
     {
