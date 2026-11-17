@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-11-17T08:44Z",
+  "updated": "2026-11-17T23:42Z",
   "warehouses": [
     {
       "id": 1341,
@@ -16,7 +16,7 @@
       "latitude": 37.695,
       "longitude": -121.917,
       "distance": 1.2794782687216448,
-      "regular": 4.799,
+      "regular": 4.899,
       "premium": 5.699
     },
     {
@@ -27,7 +27,7 @@
       "latitude": 37.703,
       "longitude": -121.812,
       "distance": 4.69967898617688,
-      "regular": 4.859,
+      "regular": 4.899,
       "premium": 5.699
     },
     {
@@ -49,7 +49,7 @@
       "latitude": 37.668,
       "longitude": -122.103,
       "distance": 11.406611856123856,
-      "regular": 5.059,
+      "regular": 5.099,
       "premium": 5.499
     },
     {
@@ -83,7 +83,7 @@
       "longitude": -121.973,
       "distance": 13.475166527767396,
       "regular": 4.999,
-      "premium": 5.459
+      "premium": 5.499
     },
     {
       "id": 118,
@@ -104,8 +104,8 @@
       "latitude": 37.958,
       "longitude": -122.033,
       "distance": 20.135256936164645,
-      "regular": 4.799,
-      "premium": 5.299
+      "regular": 4.859,
+      "premium": 5.359
     },
     {
       "id": 1662,
@@ -137,7 +137,7 @@
       "latitude": 37.372,
       "longitude": -121.995,
       "distance": 22.4391728051937,
-      "regular": 5.079,
+      "regular": 4.999,
       "premium": 5.399
     },
     {
@@ -159,8 +159,8 @@
       "latitude": 37.479,
       "longitude": -122.216,
       "distance": 22.67186456745462,
-      "regular": 5.199,
-      "premium": 5.699
+      "regular": 5.259,
+      "premium": 5.759
     },
     {
       "id": 129,
@@ -170,7 +170,7 @@
       "latitude": 37.357,
       "longitude": -121.939,
       "distance": 22.929077346011805,
-      "regular": 4.959,
+      "regular": 4.999,
       "premium": 5.399
     },
     {
@@ -214,7 +214,7 @@
       "latitude": 37.898,
       "longitude": -122.321,
       "distance": 27.388850251571846,
-      "regular": 5.299,
+      "regular": 5.259,
       "premium": 5.699
     },
     {
@@ -292,7 +292,7 @@
       "longitude": -121.292,
       "distance": 40.097056421068274,
       "regular": 4.899,
-      "premium": 5.359
+      "premium": 5.459
     },
     {
       "id": 1679,
@@ -346,7 +346,7 @@
       "latitude": 36.985,
       "longitude": -122.033,
       "distance": 49.07383432591178,
-      "regular": 4.999,
+      "regular": 5.099,
       "premium": 5.699
     },
     {
@@ -380,7 +380,7 @@
       "longitude": -121.414,
       "distance": 56.111910406701504,
       "regular": 4.999,
-      "premium": 5.499
+      "premium": 5.559
     },
     {
       "id": 782,
@@ -402,7 +402,7 @@
       "longitude": -121.414,
       "distance": 59.9262597584583,
       "regular": 4.959,
-      "premium": 5.459
+      "premium": 5.499
     },
     {
       "id": 659,
@@ -423,7 +423,7 @@
       "latitude": 38.597,
       "longitude": -121.453,
       "distance": 67.25495023028662,
-      "regular": 4.999,
+      "regular": 5.059,
       "premium": 5.659
     },
     {
@@ -456,8 +456,8 @@
       "latitude": 38.588,
       "longitude": -121.264,
       "distance": 71.0244233080868,
-      "regular": 4.859,
-      "premium": 5.599
+      "regular": 4.999,
+      "premium": 5.659
     },
     {
       "id": 131,
@@ -468,7 +468,7 @@
       "longitude": -121.845,
       "distance": 73.95338057009184,
       "regular": 5.159,
-      "premium": 5.559
+      "premium": 5.519
     },
     {
       "id": 771,
@@ -478,7 +478,7 @@
       "latitude": 38.69,
       "longitude": -121.298,
       "distance": 76.45453466078638,
-      "regular": 4.799,
+      "regular": 4.859,
       "premium": 5.499
     },
     {
@@ -500,8 +500,8 @@
       "latitude": 38.754,
       "longitude": -121.366,
       "distance": 79.058227790894,
-      "regular": 4.659,
-      "premium": 5.399
+      "regular": 4.759,
+      "premium": 5.459
     },
     {
       "id": 142,
@@ -522,8 +522,8 @@
       "latitude": 38.78,
       "longitude": -121.267,
       "distance": 82.79418682838931,
-      "regular": 4.759,
-      "premium": 5.399
+      "regular": 4.659,
+      "premium": 5.459
     }
   ]
 }
