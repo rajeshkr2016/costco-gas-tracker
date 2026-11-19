@@ -6,7 +6,7 @@
     "lng": -121.8957
   },
   "radius": 100.0,
-  "updated": "2026-11-18T23:14Z",
+  "updated": "2026-11-19T08:17Z",
   "warehouses": [
     {
       "id": 1341,
@@ -27,7 +27,7 @@
       "latitude": 37.703,
       "longitude": -121.812,
       "distance": 4.69967898617688,
-      "regular": 4.899,
+      "regular": 4.959,
       "premium": 5.699
     },
     {
@@ -38,7 +38,7 @@
       "latitude": 37.782,
       "longitude": -121.973,
       "distance": 7.7828052973914135,
-      "regular": 4.959,
+      "regular": 4.999,
       "premium": 5.799
     },
     {
@@ -104,7 +104,7 @@
       "latitude": 37.958,
       "longitude": -122.033,
       "distance": 20.135256936164645,
-      "regular": 4.859,
+      "regular": 4.899,
       "premium": 5.359
     },
     {
@@ -269,7 +269,7 @@
       "latitude": 37.785,
       "longitude": -121.26,
       "distance": 35.361578350100956,
-      "regular": 4.859,
+      "regular": 4.899,
       "premium": 5.359
     },
     {
@@ -434,7 +434,7 @@
       "latitude": 38.42,
       "longitude": -122.712,
       "distance": 67.29843407483122,
-      "regular": 5.359,
+      "regular": 5.299,
       "premium": 5.799
     },
     {
@@ -478,7 +478,7 @@
       "latitude": 38.69,
       "longitude": -121.298,
       "distance": 76.45453466078638,
-      "regular": 4.859,
+      "regular": 4.899,
       "premium": 5.499
     },
     {
@@ -522,7 +522,7 @@
       "latitude": 38.78,
       "longitude": -121.267,
       "distance": 82.79418682838931,
-      "regular": 4.659,
+      "regular": 4.699,
       "premium": 5.459
     }
   ]
